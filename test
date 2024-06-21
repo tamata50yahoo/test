@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/1" tvg-id="233f00dc842e442b24fc74a417fc9036",Animal Planet
+http://192.168.1.24:9981/stream/channelid/1543520035?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/2" tvg-id="9f4b502502341abba625029c4ffbf40c",ANTV HD
+http://192.168.1.24:9981/stream/channelid/626019231?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/3" tvg-id="5c127542210b1353963efd54e52eeaf1",AXN
+http://192.168.1.24:9981/stream/channelid/1114968668?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/4" tvg-id="bfb2a8dde63241554a6ad1ea480ceaf5",BBC News
+http://192.168.1.24:9981/stream/channelid/1571336895?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/5" tvg-id="3db978cea88322c57fbc8834abc1ee5f",BTV5
+http://192.168.1.24:9981/stream/channelid/1316534589?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/6" tvg-id="3cc17c085754097dfc84fe2ebf0c1ade",Bình Dương 1
+http://192.168.1.24:9981/stream/channelid/142393660?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/7" tvg-id="5379918a313899cec24b18922f0c82c9",Bình Dương 2
+http://192.168.1.24:9981/stream/channelid/177305939?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/8" tvg-id="a8f1d25b318f8aa5699881e5c15137a7",Bình Dương 9
+http://192.168.1.24:9981/stream/channelid/1540551080?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/9" tvg-id="188b5103ed8534d1cec0a109379437b0",Bạc Liêu
+http://192.168.1.24:9981/stream/channelid/55675672?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/10" tvg-id="349147e58d7164de5b94f1575840e01e",Cà Mau
+http://192.168.1.24:9981/stream/channelid/1699189044?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/11" tvg-id="a67392068ad241f06422478a89de4800",Cần Thơ
+http://192.168.1.24:9981/stream/channelid/110261158?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/12" tvg-id="615b5d8a0f6d22888ca720be12816859",Discovery Asia
+http://192.168.1.24:9981/stream/channelid/173890401?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/13" tvg-id="37a20ee840c13d11afd0720f4c15840f",Discovery Channel
+http://192.168.1.24:9981/stream/channelid/1745789495?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/14" tvg-id="a21fc89ba37e40853e31bb70ccb4b93a",HTV Keys
+http://192.168.1.24:9981/stream/channelid/466100130?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/15" tvg-id="99a16634e6ef43661c369a4edade4c17",HTV Thể Thao
+http://192.168.1.24:9981/stream/channelid/879141273?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/16" tvg-id="a115027fd3e69954aac75b2d1505c7c6",HTV1
+http://192.168.1.24:9981/stream/channelid/2130843041?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/17" tvg-id="e74db6d3b4817428ee20e9d5f086158b",HTV2
+http://192.168.1.24:9981/stream/channelid/1404456423?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/18" tvg-id="95a6bd24a821d678f8438d06085efe20",HTV3
+http://192.168.1.24:9981/stream/channelid/616408725?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/19" tvg-id="87e237fa58a9d1527a90da10ac06d07d",HTV7 HD
+http://192.168.1.24:9981/stream/channelid/2050482823?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/20" tvg-id="91e2c346af8f9f02b0159886df9f5c0b",HTV9 HD
+http://192.168.1.24:9981/stream/channelid/1187242641?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/21" tvg-id="b6db58e84b33c51d0180bea5a0ee6225",HTVC Ca Nhạc
+http://192.168.1.24:9981/stream/channelid/1750653878?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/22" tvg-id="4739f340534cb97165d67a243b3cd880",HTVC Phim
+http://192.168.1.24:9981/stream/channelid/1089681735?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/23" tvg-id="c1c168bdd79d4f06d74aed95cdf13a74",HTVC Thuần Việt
+http://192.168.1.24:9981/stream/channelid/1030275521?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/24" tvg-id="d8d799fc5b5b1a604bebada583874868",Hậu Giang
+http://192.168.1.24:9981/stream/channelid/2090457048?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/25" tvg-id="0730421019b57f3fcacd1416e84ffa9e",Long An
+http://192.168.1.24:9981/stream/channelid/272773127?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/26" tvg-id="12747f119eaf6a2ab5e95536b0672990",Nhân Dân TV
+http://192.168.1.24:9981/stream/channelid/293565458?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/27" tvg-id="0eb50972dd7df12dbe1eebc93d679369",ON Cine
+http://192.168.1.24:9981/stream/channelid/1913238798?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/28" tvg-id="df2c822800b602916d92664d1c2c6a72",ON E Channel
+http://192.168.1.24:9981/stream/channelid/679619807?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/29" tvg-id="50b1c9de23ae438239651707bd50ea12",ON Golf 
+http://192.168.1.24:9981/stream/channelid/1590276432?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/30" tvg-id="cd88bb0cfc7ddb667fccbc807d149f28",ON Info TV
+http://192.168.1.24:9981/stream/channelid/213616845?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/31" tvg-id="9347cbd3f6b4a2183b4adefa90395eb8",ON Movies
+http://192.168.1.24:9981/stream/channelid/1405831059?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/32" tvg-id="92328c09c8ddee957be4ca3e46c12f46",ON Music
+http://192.168.1.24:9981/stream/channelid/160182930?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/33" tvg-id="8f36432d1314cf49fd092308e1a627e0",ON Phim Việt
+http://192.168.1.24:9981/stream/channelid/759379599?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/34" tvg-id="7ab5a6d82f90296670b9f4e0d269e194",ON Style TV
+http://192.168.1.24:9981/stream/channelid/1487320442?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/35" tvg-id="f3c798fad1219cf36922715f5a2ae3b8",ON Trending TV
+http://192.168.1.24:9981/stream/channelid/2056833011?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/36" tvg-id="6fa4bae378da079966ee0e329acdb000",ON VFamily
+http://192.168.1.24:9981/stream/channelid/1673176175?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/37" tvg-id="1b77e5c0bbec8ae4a97e7dc943fb7d03",ON Vie DRAMAS
+http://192.168.1.24:9981/stream/channelid/1088780059?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/38" tvg-id="3fa24522f8031751650a312d0122a3e2",ON Vie Giải Trí
+http://192.168.1.24:9981/stream/channelid/574988863?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/39" tvg-id="1921185eadbce0b50e15901d2e65e917",Outdoor Channel
+http://192.168.1.24:9981/stream/channelid/1578639641?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/40" tvg-id="10aea8dec34e10a03f981a8a34e812f1",QPVN
+http://192.168.1.24:9981/stream/channelid/1588112912?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/41" tvg-id="ba40a7f9a78ff0506407b59188fa4b27",Quốc Hội HD
+http://192.168.1.24:9981/stream/channelid/2041004218?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/42" tvg-id="20270439c49b8826054596a2c1687ba8",SCTV14
+http://192.168.1.24:9981/stream/channelid/956573472?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/43" tvg-id="d3af10161b0361e38dd4cc4083f573eb",VNEWS
+http://192.168.1.24:9981/stream/channelid/370192339?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/44" tvg-id="a25aa46f84b1b93d60015934d527a3e6",VOV TV
+http://192.168.1.24:9981/stream/channelid/1873042082?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/45" tvg-id="048bf7a31c6d2988b95e129fdd94a491",VTC1 HD
+http://192.168.1.24:9981/stream/channelid/603425540?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/46" tvg-id="a1c108172e0ee01acc8ed4ef7a614b11",VTC10 HD
+http://192.168.1.24:9981/stream/channelid/386449825?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/47" tvg-id="54007a2b1c4438a8be9081d84950ae66",VTC11
+http://192.168.1.24:9981/stream/channelid/729415764?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/48" tvg-id="dffe35b262b2e7da6b92e4cc1866cdb5",VTC14 HD
+http://192.168.1.24:9981/stream/channelid/842399455?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/49" tvg-id="8703222be08b94a406be66a5dac55adc",VTC16 HD
+http://192.168.1.24:9981/stream/channelid/723649415?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/50" tvg-id="8813215c3563fdce100100ce1347dd38",VTC2
+http://192.168.1.24:9981/stream/channelid/1545671560?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/51" tvg-id="5cb17e4874cd36a24722a8e9c878fd9c",VTC3 HD
+http://192.168.1.24:9981/stream/channelid/1216262492?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/52" tvg-id="8b6515c1fcfde34003b5439e0b0177ee",VTC4 HD
+http://192.168.1.24:9981/stream/channelid/1091921291?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/53" tvg-id="b2197b954f73487071fcc3b25c384a49",VTC5 HD
+http://192.168.1.24:9981/stream/channelid/360389042?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/54" tvg-id="153c6307f7b50814409a9752b3bf3fe2",VTC6 HD
+http://192.168.1.24:9981/stream/channelid/123943957?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/55" tvg-id="404a54fdfe193d370c62b6c41c3e363f",VTC7
+http://192.168.1.24:9981/stream/channelid/2102676032?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/56" tvg-id="68c784a2429aa7a05f249967b81597ca",VTC8
+http://192.168.1.24:9981/stream/channelid/579127144?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/57" tvg-id="92a1d8c565c641f841c06394c3d0257b",VTC9 HD
+http://192.168.1.24:9981/stream/channelid/1171825042?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/58" tvg-id="40b24d56804e2b371897678ebe15a5c7",VTV Cần Thơ
+http://192.168.1.24:9981/stream/channelid/1447932480?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/59" tvg-id="f587a3eeb80182ee4172beabe4724c5f",VTV1
+http://192.168.1.24:9981/stream/channelid/1856210933?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/60" tvg-id="06963b0ba3d967f2f870b03772cf54f9",VTV2
+http://192.168.1.24:9981/stream/channelid/188454406?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/61" tvg-id="65f58cc1ca459eb398236228929e5bd0",VTV3
+http://192.168.1.24:9981/stream/channelid/1099756901?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/62" tvg-id="0c04b82d2a7557d16410d7d18b0a571f",VTV4
+http://192.168.1.24:9981/stream/channelid/767034380?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/63" tvg-id="cf7a94f89af98df2c23d23ebf1503677",VTV5
+http://192.168.1.24:9981/stream/channelid/2022996687?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/64" tvg-id="fb6d88314cb38e3a902665e0bfa3c7aa",VTV5 Tây Nam Bộ
+http://192.168.1.24:9981/stream/channelid/831024635?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/65" tvg-id="a6d895a8ea330235d4871872629b2767",VTV5 Tây Nguyên
+http://192.168.1.24:9981/stream/channelid/680908966?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/66" tvg-id="670719489abdb8ef785f37b400057c3d",VTV7
+http://192.168.1.24:9981/stream/channelid/1209599847?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/67" tvg-id="ed2e7935b9f6c97bad6d81bf87786956",VTV8
+http://192.168.1.24:9981/stream/channelid/897134317?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/68" tvg-id="30f88c3adfc1e42340c75dd87e81c58e",VTV9
+http://192.168.1.24:9981/stream/channelid/982317104?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/69" tvg-id="6d81b38067d61e28def63235a4049bba",Vĩnh Long 1
+http://192.168.1.24:9981/stream/channelid/11764077?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/70" tvg-id="1f8b9ec4c410805772762f62dbbbf1da",Vĩnh Long 2
+http://192.168.1.24:9981/stream/channelid/1151240991?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/71" tvg-id="ea526a0e6b96658a72bf5240924cc4a1",Vĩnh Long 3
+http://192.168.1.24:9981/stream/channelid/241849066?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/72" tvg-id="21fe3bb1cdd8b60f9b4973c22d473dcc",Vĩnh Long 4
+http://192.168.1.24:9981/stream/channelid/826015265?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/73" tvg-id="0f00eeb2c9eccc1713070d2e9aeb99c7",Đà Nẵng 1
+http://192.168.1.24:9981/stream/channelid/854458383?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/74" tvg-id="6bfa0ac48545f0b703900faf1961b3d8",Đà Nẵng 2
+http://192.168.1.24:9981/stream/channelid/1141570155?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/75" tvg-id="d1eb8fc3a3f0c0b7974ae5b56a224172",Đồng Nai 1
+http://192.168.1.24:9981/stream/channelid/1133505489?profile=pass
+#EXTINF:-1 logo="http://192.168.1.24:9981/imagecache/76" tvg-id="db3e7eeebd96d4cc875866d69893bf5b",Đồng Nai 2
+http://192.168.1.24:9981/stream/channelid/1853767387?profile=pass
