@@ -1,297 +1,297 @@
 #EXTM3U
-#EXTINF:-1 logo="https://i.imgur.com/nfkmvAY.png" tvg-id="a079a24f6f4a5ead4ff4e0ad35f33ef4" tvg-chno="1",VTV1
-http://192.168.1.245:9981/stream/channelid/1336048032?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/BVwi3K3.png" tvg-id="7d9734a4cf4a4db905fb392985fedff5" tvg-chno="2",VTV2
-http://192.168.1.245:9981/stream/channelid/607426429?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/7rLCvgS.png" tvg-id="6376d619e188ce9bdbb716cc51c1f38c" tvg-chno="3",VTV3
-http://192.168.1.245:9981/stream/channelid/433485411?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/9zVTtsA.png" tvg-id="aa3ee8ee84138004b106783cfcdfd80d" tvg-chno="4",VTV4
-http://192.168.1.245:9981/stream/channelid/1860714154?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/7qPKNFU.png" tvg-id="d9d68e841a4238b248c7015f33980b51" tvg-chno="5",VTV5
-http://192.168.1.245:9981/stream/channelid/76469977?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/HCpqatZ.png" tvg-id="238d3f02928de5dcd5339f680d3298e4" tvg-chno="6",VTV Cần Thơ
-http://192.168.1.245:9981/stream/channelid/37719331?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/AgamSNe.png" tvg-id="b3a0d3550553e2c823bc863449804b65" tvg-chno="7",VTV7
-http://192.168.1.245:9981/stream/channelid/1439932595?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/lpcltL9.png" tvg-id="db50795bca629c2185b561d4e69884d3" tvg-chno="8",VTV8
-http://192.168.1.245:9981/stream/channelid/1534677211?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Ex1VkGQ.png" tvg-id="7217b0ed701e4b608cbc3ec01fdde30e" tvg-chno="9",VTV9
-http://192.168.1.245:9981/stream/channelid/1840256882?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/mIUWkDx.png" tvg-id="222545733e1ac1b9395fafa83a9f3828" tvg-chno="10",VTV5 TNB
-http://192.168.1.245:9981/stream/channelid/1933911330?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/R8c2swd.png" tvg-id="986b0c252df05f1581a63c0627fb112f" tvg-chno="11",VTV5 TN
-http://192.168.1.245:9981/stream/channelid/621570968?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/eGkFbAh.png" tvg-id="555bee42be33ce391fb52cb9c7806b84" tvg-chno="12",ANTV
-http://192.168.1.245:9981/stream/channelid/1122917205?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Ud78FHF.png" tvg-id="d56f4e6e77646a905dcdbaa2d5cac801" tvg-chno="13",Nhan Dan TV
-http://192.168.1.245:9981/stream/channelid/1850634197?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/YtZGuSy.png" tvg-id="ac3aa6f5efbca777f58f3f9589404140" tvg-chno="14",Quoc Hoi
-http://192.168.1.245:9981/stream/channelid/1973828268?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/UIGZw0y.png" tvg-id="d00f5ff5c41bd9e513e546d012070186" tvg-chno="15",QPVN
-http://192.168.1.245:9981/stream/channelid/1969164240?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/GmefCpv.png" tvg-id="8272be68c881b8b0771c0a47897a3d75" tvg-chno="16",VNEWS
-http://192.168.1.245:9981/stream/channelid/1757311618?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/7HD60aD.png" tvg-id="52c8853dd1d805dcd5cd8319b03b4eab" tvg-chno="17",VTC1
-http://192.168.1.245:9981/stream/channelid/1032177746?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/WUUXS6T.png" tvg-id="3ba8f3f3ae82143acb27f8f9ccc5ea74" tvg-chno="18",VTC2
-http://192.168.1.245:9981/stream/channelid/1945348155?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/hS4bgHe.png" tvg-id="cdf4d18d68e10ca65b1b8e84fd7b1e5d" tvg-chno="19",VTC3
-http://192.168.1.245:9981/stream/channelid/231863501?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/5cwYPTt.png" tvg-id="bbd7455d4640c356349e6281b8b977f6" tvg-chno="20",VTC4
-http://192.168.1.245:9981/stream/channelid/1564858299?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/VvfiwPJ.png" tvg-id="4162ece787c6cab248d9e3c591a9f588" tvg-chno="21",VTC5
-http://192.168.1.245:9981/stream/channelid/1743544897?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/LPdjM0z.png" tvg-id="3b873d6a6764b64af2120adf83b957e8" tvg-chno="22",VTC6
-http://192.168.1.245:9981/stream/channelid/1782417211?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Y5FUbsY.png" tvg-id="dd26ed4853baf596941775e3edba1bd9" tvg-chno="23",VTC7
-http://192.168.1.245:9981/stream/channelid/1223501533?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/4k57giG.png" tvg-id="f0b39dd840208fa4b416d241f97c6e88" tvg-chno="24",VTC8
-http://192.168.1.245:9981/stream/channelid/1486730224?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/cnAht7i.png" tvg-id="f6e6f4b4f78482fd3efdcb88c2343e73" tvg-chno="25",VTC9
-http://192.168.1.245:9981/stream/channelid/888465142?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/PaVbyxg.png" tvg-id="a5e69a6adf250f059097a3ac39f59912" tvg-chno="26",VTC10
-http://192.168.1.245:9981/stream/channelid/1788536485?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/0ovZkYb.png" tvg-id="a68c35c683fb74a79155db664113080e" tvg-chno="27",VTC11
-http://192.168.1.245:9981/stream/channelid/1177914534?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/phXvB0t.png" tvg-id="98276f8b53ed4ad2d33dd52340de13da" tvg-chno="28",VTC14
-http://192.168.1.245:9981/stream/channelid/191834008?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/rltq2Dy.png" tvg-id="47a9e8e3429eb56ce9e43ee688883235" tvg-chno="29",VTC16
-http://192.168.1.245:9981/stream/channelid/1676192071?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/lARtNRO.png" tvg-id="55e290d150511b9cdd8eb7bd713a8aa8" tvg-chno="30",VOV TV
-http://192.168.1.245:9981/stream/channelid/1368449621?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/oLm4dbV.png" tvg-id="f20219e9ecd5c19b534096d0373e89d5" tvg-chno="31",HTV1
-http://192.168.1.245:9981/stream/channelid/1763246834?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/f3KlwDX.png" tvg-id="de5dc880382da9910766d8657f89d75c" tvg-chno="32",HTV2 Vie Channel
-http://192.168.1.245:9981/stream/channelid/13131230?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/2iE01Ca.png" tvg-id="f0f846ed68cc34fbefd88c9c96276236" tvg-chno="33",HTV3
-http://192.168.1.245:9981/stream/channelid/1833367792?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/RSlvzAs.png" tvg-id="acfb6ade8f227b77eef94e6dbe6f4d6e" tvg-chno="34",HTV7
-http://192.168.1.245:9981/stream/channelid/1584069548?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/wdS7Cr9.png" tvg-id="faa052f87df4fcbaa823676911af1b5d" tvg-chno="35",HTV9
-http://192.168.1.245:9981/stream/channelid/2018681082?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/z7NOxJ3.png" tvg-id="67e267fa026d0e4cb9b5833fcd1f7818" tvg-chno="36",HTV The Thao
-http://192.168.1.245:9981/stream/channelid/2053628519?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/ZHVkEIC.png" tvg-id="f3d4e681e0aeafe6cff117396fdc37c9" tvg-chno="37",HTVC Ca Nhac
-http://192.168.1.245:9981/stream/channelid/31905011?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/XxIO0E0.png" tvg-id="49fe4b1c0fae4539325af3206810102a" tvg-chno="38",HTVC Du Lich
-http://192.168.1.245:9981/stream/channelid/474742345?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/3WanRsM.png" tvg-id="0a70d76b7555445dbd3f2e6cf75f6cf9" tvg-chno="39",HTVC Gia Đinh
-http://192.168.1.245:9981/stream/channelid/1809281034?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/W16kIQP.png" tvg-id="2b0eb64cef7f8a62759947d3ce6e5344" tvg-chno="40",HTVC Phim
-http://192.168.1.245:9981/stream/channelid/1286999595?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/MyyovVe.png" tvg-id="5bbe77616ec0480d31ec4df1728282b5" tvg-chno="41",HTVC Phu Nu
-http://192.168.1.245:9981/stream/channelid/1635237467?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/xmISDWo.png" tvg-id="02ad460f0c444a0fdf3f2accb0f9ed90" tvg-chno="42",HTVC Thuan Viet
-http://192.168.1.245:9981/stream/channelid/256290050?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/SQ9cLJj.png" tvg-id="7b2b1f32908744b151bbec0cc80db234" tvg-chno="43",HTVC+
-http://192.168.1.245:9981/stream/channelid/840903547?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/wrH7U0X.png" tvg-id="47c7ee51ad5c9f4fbc58d5166912b391" tvg-chno="44",HTV Keys
-http://192.168.1.245:9981/stream/channelid/1374603079?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/f3KlwDX.png" tvg-id="25e34e4f1eb5fb43540543db6080c60e" tvg-chno="45",HTV2 Vie Channel
-http://192.168.1.245:9981/stream/channelid/1330570021?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="4a07cf42bdbdadf3ece38b37e008ac51" tvg-chno="46",SCTV6
-http://192.168.1.245:9981/stream/channelid/1120864074?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/gvPtTR2.png" tvg-id="62da2431cc6d4ca94f1abe5b8967e38e" tvg-chno="47",THVL1 _ TH Vinh Long
-http://192.168.1.245:9981/stream/channelid/824498786?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/wYadDFn.png" tvg-id="f90bbd94409e1e7b07834d4075f335e5" tvg-chno="48",THVL2 _ TH Vinh Long
-http://192.168.1.245:9981/stream/channelid/347933689?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/B8S0dyG.png" tvg-id="d141c258e4f4e1da6cb3bed5046fd1c6" tvg-chno="49",THVL3 _ TH Vinh Long
-http://192.168.1.245:9981/stream/channelid/1489125841?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/xYalJzh.png" tvg-id="acbdf325a16abc6eab799de98b210f3b" tvg-chno="50",THVL4 _ TH Vinh Long
-http://192.168.1.245:9981/stream/channelid/636730796?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/QAVSUBu.png" tvg-id="926c645b653c75f84f6fd65eb4916eb0" tvg-chno="51",THLC _ TH Lào Cai
-http://192.168.1.245:9981/stream/channelid/1533308050?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/AELRXuX.png" tvg-id="619b235c41c56cc4eb6ba50608fe85fa" tvg-chno="52",YTV _ TH Yên Bái
-http://192.168.1.245:9981/stream/channelid/1545837409?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Rky1N5S.png" tvg-id="0ba3d8f0fa558094be3707064d44098f" tvg-chno="53",ĐTV _ TH Điện Biên
-http://192.168.1.245:9981/stream/channelid/1893245707?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/cgKnwnX.png" tvg-id="37e09dc689c92da8e2a4370618508d9e" tvg-chno="54",HBTV _ TH Hòa Bình
-http://192.168.1.245:9981/stream/channelid/1184751671?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/we3GCjr.png" tvg-id="56c51f2797223d3371db3db0ae3299e7" tvg-chno="55",LTV _ TH Lai Châu
-http://192.168.1.245:9981/stream/channelid/656393558?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/h7uPIEP.png" tvg-id="0470e27a0440dbeb7e489a229bf175ac" tvg-chno="56",HGTV _ TH Hà Giang
-http://192.168.1.245:9981/stream/channelid/2061660164?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/YCrYT2p.png" tvg-id="b042a734f180666054f234404440eb41" tvg-chno="57",CRTV _ TH Cao Bằng
-http://192.168.1.245:9981/stream/channelid/883376816?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/msjevyp.png" tvg-id="6838f7ed2bcd78f50b4657872be63d56" tvg-chno="58",TBK _ TH Bắc Kạn
-http://192.168.1.245:9981/stream/channelid/1844918376?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/6FCXyrr.png" tvg-id="a7aa4cb505698469eb1b1c71c66735d4" tvg-chno="59",LSTV _ TH Lạng Sơn
-http://192.168.1.245:9981/stream/channelid/894216871?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/6RPgRE7.png" tvg-id="e4bfc652c3e966792ab91040da9fa1c1" tvg-chno="60",TTV _ TH Tuyên Quang
-http://192.168.1.245:9981/stream/channelid/1388756964?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/UBcqMiY.png" tvg-id="e6c084fdd80532f5bc1bf03fcaa89731" tvg-chno="61",TN1 _ TH Thái Nguyên
-http://192.168.1.245:9981/stream/channelid/2105852134?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/5OZ2hAB.png" tvg-id="ddab83a370f09741dd7a63b03312d838" tvg-chno="62",PTV _ TH Phú Thọ
-http://192.168.1.245:9981/stream/channelid/595831773?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/05t6W7v.png" tvg-id="cf13d309518d70152fd3b773e8ffbb10" tvg-chno="63",BGTV _ TH Bắc Giang
-http://192.168.1.245:9981/stream/channelid/164828111?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/sGcRJVP.png" tvg-id="b68b377bca4bc59570c61c62f85267d9" tvg-chno="64",QTV1 _ TH Quảng Ninh
-http://192.168.1.245:9981/stream/channelid/2067237814?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/4hadYbw.png" tvg-id="a5912297db4386dd3387a5e96a927633" tvg-chno="65",QTV3 _ TH Quảng Ninh
-http://192.168.1.245:9981/stream/channelid/388141477?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/zUFSFCV.png" tvg-id="b53bd717f25be4125cab3d0f1b3e95b7" tvg-chno="66",BTV _ TH Bắc Ninh
-http://192.168.1.245:9981/stream/channelid/399981493?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/mwCTDMj.png" tvg-id="3b10aa698b6a9c938d58ee128acef134" tvg-chno="67",H1 _ TH Hà Nội
-http://192.168.1.245:9981/stream/channelid/1772752955?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/HyiwlZV.png" tvg-id="0b97819acc42d0389b5ed39e9faf9da8" tvg-chno="68",H2 _ TH Hà Nội
-http://192.168.1.245:9981/stream/channelid/444700427?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/QmzXd4R.png" tvg-id="2cc3a57a3895808580f2861d694da115" tvg-chno="69",THD _ TH Hải Dương
-http://192.168.1.245:9981/stream/channelid/2057683756?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/StFk4PA.png" tvg-id="dc14f6553228c735269cac508331210b" tvg-chno="70",THP _ TH TP. Hải Phòng
-http://192.168.1.245:9981/stream/channelid/1442190556?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/s3yq8AW.png" tvg-id="a0a5132b66a78025ceaf677a872d8a60" tvg-chno="71",THP+ _ TH TP. Hải Phòng
-http://192.168.1.245:9981/stream/channelid/722707872?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/XuYnZWe.png" tvg-id="168bc769a0f089fff7b55f7e8960628b" tvg-chno="72",NTV _ TH Ninh Bình
-http://192.168.1.245:9981/stream/channelid/1774684950?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/fP7B6A4.png" tvg-id="2da22577d79ecd5aa512d68715e07212" tvg-chno="73",TBTV _ TH Thái Bình
-http://192.168.1.245:9981/stream/channelid/1998955053?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/rrxDn5n.png" tvg-id="8a6d4927a6b0b919c909f06d8bb492d3" tvg-chno="74",VP _ TH Vĩnh Phúc
-http://192.168.1.245:9981/stream/channelid/659123594?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/5HEfwZz.png" tvg-id="e8940df0f522f6455d2b0a615add404b" tvg-chno="75",NTV _ TH Nghệ An
-http://192.168.1.245:9981/stream/channelid/1879938280?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/R4uthe7.png" tvg-id="15799b1aa86534095bb4bafcca82ab3e" tvg-chno="76",HTTV _ TH Hà Tĩnh
-http://192.168.1.245:9981/stream/channelid/446396693?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/yIHs2sI.png" tvg-id="50492404210d4250b9b7f91fd1a77b23" tvg-chno="77",QRTV _ TH Quảng Trị
-http://192.168.1.245:9981/stream/channelid/69486928?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/6OWQ8lU.png" tvg-id="965646aecb4ff6b2f44c48ee00a4f31b" tvg-chno="78",DaNangTV1 _ TH TP. Đà Nẵng
-http://192.168.1.245:9981/stream/channelid/776361622?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/hkzIqEV.png" tvg-id="e41e4a7f4dd4eb009029c44c1f6f3e56" tvg-chno="79",DaNangTV2 _ TH TP. Đà Nẵng
-http://192.168.1.245:9981/stream/channelid/2135564004?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/uWHWxZB.png" tvg-id="7262cf55fd5f6dd0e0815ce9d1637450" tvg-chno="80",QRT _ TH Quảng Nam
-http://192.168.1.245:9981/stream/channelid/1439654514?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/McmKwa8.png" tvg-id="a4f4fe102bcd9170ae5fe47fdb3aedc8" tvg-chno="81",PTQ _ TH Quảng Ngãi
-http://192.168.1.245:9981/stream/channelid/285144228?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/APCkufv.png" tvg-id="471430f0074421432c3dc75f67b710e9" tvg-chno="82",BTV _ TH Bình Định
-http://192.168.1.245:9981/stream/channelid/1882199111?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/r2xMHkT.png" tvg-id="58f9a6f96f8f7c85ff6158930a9dc762" tvg-chno="83",PTP _ TH Phú Yên
-http://192.168.1.245:9981/stream/channelid/2040985944?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/kPu3rSN.png" tvg-id="c8eca1b3f68316711f733de7aa2e5978" tvg-chno="84",KTV _ TH Khánh Hòa
-http://192.168.1.245:9981/stream/channelid/866249928?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/cx5AaTV.png" tvg-id="563f617eb2e65c837abceb5f0e1a968a" tvg-chno="85",NTV _ TH Ninh Thuận
-http://192.168.1.245:9981/stream/channelid/2120302422?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Bu1xsiJ.png" tvg-id="6334d4b00fa0aea6be7e7a3c438f874c" tvg-chno="86",BTV _ TH Bình Thuận
-http://192.168.1.245:9981/stream/channelid/819213411?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/C4yYbbi.png" tvg-id="21448bba093800c7ae5b8bc4bd354bf9" tvg-chno="87",KRT _ TH Kon Tum
-http://192.168.1.245:9981/stream/channelid/982205473?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/csqFzvA.png" tvg-id="c6b1b23e4dacbb8ca8b2d7c689a00e89" tvg-chno="88",THGL _ TH Gia Lai
-http://192.168.1.245:9981/stream/channelid/1051898310?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/H2LOZ2A.png" tvg-id="dc7e92317c4688bcc5ab7ff0bd36b15e" tvg-chno="89",DRT _ TH Đắk Lắk
-http://192.168.1.245:9981/stream/channelid/831684316?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Tv0fNk3.png" tvg-id="68c54c0a52febfcf2dc879b769d4761d" tvg-chno="90",LTV _ TH Lâm Đồng
-http://192.168.1.245:9981/stream/channelid/172803432?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/DHWoGfP.png" tvg-id="b7e36a40faf9d7d4ff35afa2bc039ca7" tvg-chno="91",BPTV1 _ TH Bình Phước
-http://192.168.1.245:9981/stream/channelid/1080746935?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/CyhvaPs.png" tvg-id="b9c9ec5cc069718eed49388e8d8997a5" tvg-chno="92",BPTV2 _ TH Bình Phước
-http://192.168.1.245:9981/stream/channelid/1559022009?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/YPQCtHY.png" tvg-id="657fdfc8b3ed6b41e43948e6aaf9f39e" tvg-chno="93",BTV1 _ TH Bình Dương
-http://192.168.1.245:9981/stream/channelid/1222606693?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/LpV0d3Q.png" tvg-id="94e017697a24f6f803ac61833ee25648" tvg-chno="94",BTV2 _ TH Bình Dương
-http://192.168.1.245:9981/stream/channelid/1763172500?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/jeunb3Y.png" tvg-id="d79e60beb43cbd64f3e8dea88107393a" tvg-chno="95",BTV9 B Channel
-http://192.168.1.245:9981/stream/channelid/1046519511?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/blOZQPI.png" tvg-id="15605628bf127085c3852a287d4c8e05" tvg-chno="96",ĐNRTV1 _ TH Đồng Nai
-http://192.168.1.245:9981/stream/channelid/676749333?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/tIvmaaX.png" tvg-id="63d378f5b9fffdb822a8d0ff080306c9" tvg-chno="97",ĐNRTV2 _ TH Đồng Nai
-http://192.168.1.245:9981/stream/channelid/1970852707?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/0DU4cyg.png" tvg-id="2992582cfc97b1ded615277913b798ca" tvg-chno="98",TTV11 _ TH Tây Ninh
-http://192.168.1.245:9981/stream/channelid/744002089?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/KX2RMXR.png" tvg-id="13d55c8d200d3b2b545c98b40c234725" tvg-chno="99",BRT _ TH Bà Rịa Vũng Tàu
-http://192.168.1.245:9981/stream/channelid/224187667?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/UfOw13y.png" tvg-id="08a83074d461dbdbdca367de06c432b5" tvg-chno="100",THĐT1 _ TH Đồng Tháp
-http://192.168.1.245:9981/stream/channelid/1949345800?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/WXebESa.png" tvg-id="bafdc3966524020434c73d0ec12f16cc" tvg-chno="101",THĐT2 Miền Tây
-http://192.168.1.245:9981/stream/channelid/381943226?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NkHFZ0D.png" tvg-id="7b5983c87ef1623cf750e338d7acb977" tvg-chno="102",THTG _ TH Tiền Giang
-http://192.168.1.245:9981/stream/channelid/1216567675?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/2On2R0G.png" tvg-id="09dba44619ecaae0357ea01b85816ae6" tvg-chno="103",ATV _ TH An Giang
-http://192.168.1.245:9981/stream/channelid/1185209097?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/9UZtJvv.png" tvg-id="9b54d8a394fa1d90dfb9b6c3fa537f19" tvg-chno="104",THBT _ TH Bến Tre
-http://192.168.1.245:9981/stream/channelid/601379995?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/dHOm6Ll.png" tvg-id="112ef78f2c0ef05e20ee42ef02fa677e" tvg-chno="105",THTV _ TH Trà Vinh
-http://192.168.1.245:9981/stream/channelid/267857425?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/a3joZFM.png" tvg-id="4fd6883d8b2eb604b849f6428f58fde9" tvg-chno="106",HGTV _ TH Hậu Giang
-http://192.168.1.245:9981/stream/channelid/1032377935?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/jCTogPb.png" tvg-id="24f6a9c030b575f9559af54147ce0224" tvg-chno="107",KG _ TH Kiên Giang
-http://192.168.1.245:9981/stream/channelid/1084880420?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/FoAzh3R.png" tvg-id="e12981b2a9e82f83e897b60a0f6b324f" tvg-chno="108",BLTV _ TH Bạc Liêu
-http://192.168.1.245:9981/stream/channelid/847325665?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/cYqXh3i.png" tvg-id="1c95fdd038d671235213d62291637c8e" tvg-chno="109",CTV _ TH Cà Mau
-http://192.168.1.245:9981/stream/channelid/1358796060?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NyrxzES.png" tvg-id="cc0b204659f9e4e61b8de8207ad4013f" tvg-chno="110",THTPCT _ TH TP. Cần Thơ
-http://192.168.1.245:9981/stream/channelid/1176505292?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/QZT6GIh.png" tvg-id="cffc14cfdb1004e2d6c880cfeec9cc90" tvg-chno="111",STV _ TH Sơn La
-http://192.168.1.245:9981/stream/channelid/1326775503?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/DCSPntI.png" tvg-id="68f5dd30a968ce19b6653776029281e3" tvg-chno="112",THHN _ TH Hà Nam
-http://192.168.1.245:9981/stream/channelid/819852648?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/deNnP9h.png" tvg-id="6bef4ac44eac82ecf01c1b078f256441" tvg-chno="113",HY _ TH Hưng Yên
-http://192.168.1.245:9981/stream/channelid/1145761643?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/qW62XEm.png" tvg-id="ca7adddbad6bae52840a13a6c8a36e26" tvg-chno="114",NTV _ TH Nam Định
-http://192.168.1.245:9981/stream/channelid/1541241546?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NlOwltd.png" tvg-id="cd6de154b3cb2fd0c16c7623c5da3696" tvg-chno="115",TTV _ TH Thanh Hóa
-http://192.168.1.245:9981/stream/channelid/1424059853?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/8yOdFDx.png" tvg-id="0907ecc41e0e7a2c04da96139cd3c740" tvg-chno="116",QBTV _ TH Quảng Bình
-http://192.168.1.245:9981/stream/channelid/1156318985?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/29px2Qy.png" tvg-id="65604f6c158854261a0ea9b8da77a8fd" tvg-chno="117",TRT _ TH Thừa Thiên Huế
-http://192.168.1.245:9981/stream/channelid/1817141349?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/jBWD3It.png" tvg-id="8f4f3d91fdb9a2e1a9ce6b34aee3b688" tvg-chno="118",LA34 _ TH Long An
-http://192.168.1.245:9981/stream/channelid/289230735?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/5KQJoBg.png" tvg-id="159e99d99d51c32d286d65e68122931f" tvg-chno="119",STV1 _ TH Sóc Trăng
-http://192.168.1.245:9981/stream/channelid/1503239701?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/UI80qhw.png" tvg-id="43b2539c7b37b8df53ee0b4f6e367b46" tvg-chno="120",ABC Australia
-http://192.168.1.245:9981/stream/channelid/475247171?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/TBgGuJy.png" tvg-id="6b89eebd27a9a45a3119190f495983cb" tvg-chno="121",Animal Planet
-http://192.168.1.245:9981/stream/channelid/1039042923?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/bLjwPFU.png" tvg-id="e122d1b33b463419ec2fbc6b4cdf8b60" tvg-chno="122",Animax
-http://192.168.1.245:9981/stream/channelid/869343969?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/KL9oaqc.png" tvg-id="26146ea343ed08a9b1b90b80ddbe2fbb" tvg-chno="123",Asian Food Network
-http://192.168.1.245:9981/stream/channelid/594416678?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="7d3719b87761707b6b0f3074e7139ab3" tvg-chno="124",AXN
-http://192.168.1.245:9981/stream/channelid/941176701?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/0t99xJZ.png" tvg-id="b9f64086fd8dfb67bcfc1fc43e973068" tvg-chno="125",BBC CbeeBies
-http://192.168.1.245:9981/stream/channelid/104920761?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/qUiM77S.png" tvg-id="a337224092d740ec5a948657960a66e3" tvg-chno="126",BBC Earth
-http://192.168.1.245:9981/stream/channelid/1075984291?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/i7aYwdZ.png" tvg-id="f1ddc96d047d93a7684b58a3495b2660" tvg-chno="127",BBC Lifestyle
-http://192.168.1.245:9981/stream/channelid/1841946097?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/hsByQfe.png" tvg-id="a1657088ecb27d6e2bb2ce3fabb80640" tvg-chno="128",BBC News
-http://192.168.1.245:9981/stream/channelid/141583777?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/rxFZgIK.png" tvg-id="d26b181a3ae5b35aa360dbb0637afe93" tvg-chno="129",Bloomberg
-http://192.168.1.245:9981/stream/channelid/437808082?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/6oXQdBZ.png" tvg-id="02a7d660bac574706747f234d7664911" tvg-chno="130",Cartoon Network
-http://192.168.1.245:9981/stream/channelid/1624680194?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/RIQE8kA.png" tvg-id="7ae40c976ce5b3d635b33b06d18caabb" tvg-chno="131",CNA
-http://192.168.1.245:9981/stream/channelid/386720890?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/RCd9AM9.png" tvg-id="58c8df0fc8c7550a19c7478dd74cdc4e" tvg-chno="132",CNN
-http://192.168.1.245:9981/stream/channelid/266324056?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/t9fzARL.png" tvg-id="c1412c7d9986f900e86b164ae3924dd6" tvg-chno="133",Da Vinci
-http://192.168.1.245:9981/stream/channelid/2100052417?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/STCTI1F.png" tvg-id="5a8b9d559753ebba31073726f18856e6" tvg-chno="134",Discovery Asia
-http://192.168.1.245:9981/stream/channelid/1436388186?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/2JR5vSZ.png" tvg-id="9751cdbb657b244027c4a218b0a506ab" tvg-chno="135",Discovery Channel
-http://192.168.1.245:9981/stream/channelid/1003311511?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/N69Cori.png" tvg-id="6ce427cfcc0931d6944b1c0c171a3077" tvg-chno="136",Dreamworks
-http://192.168.1.245:9981/stream/channelid/1328014444?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Ppi36a4.png" tvg-id="5250dda71f6b2ace0f7dca764efdcd23" tvg-chno="137",DW (English)
-http://192.168.1.245:9981/stream/channelid/668815442?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/ALDt1JX.png" tvg-id="824978dc153a29b619d9df82495e209d" tvg-chno="138",Fashion TV
-http://192.168.1.245:9981/stream/channelid/1551387010?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/YF2zMTz.png" tvg-id="beb27e5214f01f0c29ef4bd064198cb5" tvg-chno="139",France 24 (English)
-http://192.168.1.245:9981/stream/channelid/1384035006?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/7nIUtCU.png" tvg-id="56ba5b0b0e995335a90435adf7f90b2a" tvg-chno="140",HBO
-http://192.168.1.245:9981/stream/channelid/190560854?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/vylHBC8.png" tvg-id="3e9bb2e9be40540a6eaad0e21890d67a" tvg-chno="141",KBS World
-http://192.168.1.245:9981/stream/channelid/1773312830?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Et3vExm.png" tvg-id="0f40778c0552742c78e5a8816896ba8b" tvg-chno="142",NHK World Japan
-http://192.168.1.245:9981/stream/channelid/209141775?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/x4zXtYX.png" tvg-id="32404e3b8041dc2433053e02167f33bc" tvg-chno="143",Outdoor Channel
-http://192.168.1.245:9981/stream/channelid/994983986?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/ZStxdQI.png" tvg-id="2cd93aebc5d936a029dafeb463ed290b" tvg-chno="144",TLC
-http://192.168.1.245:9981/stream/channelid/1799018796?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/D8zXF7p.png" tvg-id="2487345389afa90fc369b52271faa3d5" tvg-chno="145",TV5 Monde Asie
-http://192.168.1.245:9981/stream/channelid/1395951396?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/B9AVT2i.png" tvg-id="38d6dafe43acd8df09426694bd0d46b4" tvg-chno="146",WBTV
-http://192.168.1.245:9981/stream/channelid/2128270904?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/DZNTBjC.png" tvg-id="0fbd1130706312d2020c381e56f02f66" tvg-chno="147",Arirang
-http://192.168.1.245:9981/stream/channelid/806468879?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/H0hAm72.png" tvg-id="bcc9e4a9dc999b93890df6d7265912fa" tvg-chno="148",CNBC
-http://192.168.1.245:9981/stream/channelid/702859708?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/nfkmvAY.png" tvg-id="db9d516e661e62532162490b6523139f" tvg-chno="1",VTV1
+http://192.168.1.245:9981/stream/channelid/1850842587?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/BVwi3K3.png" tvg-id="02ece023bb93cbb9418ced5f4e360d1c" tvg-chno="2",VTV2
+http://192.168.1.245:9981/stream/channelid/601943042?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/7rLCvgS.png" tvg-id="ee096e2c0892289925223c2c1694e1c9" tvg-chno="3",VTV3
+http://192.168.1.245:9981/stream/channelid/745409006?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9zVTtsA.png" tvg-id="55e561675d3b2e3833f0dfa9521b4b86" tvg-chno="4",VTV4
+http://192.168.1.245:9981/stream/channelid/1734468949?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/7qPKNFU.png" tvg-id="91b51a3e8edf3ffb6196ef1ff6a7ce66" tvg-chno="5",VTV5
+http://192.168.1.245:9981/stream/channelid/1041937809?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/HCpqatZ.png" tvg-id="1e255e3b780a9a06896b9795158ae246" tvg-chno="6",VTV Cần Thơ
+http://192.168.1.245:9981/stream/channelid/996025630?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/AgamSNe.png" tvg-id="930b6007c86318dba234734d67fef056" tvg-chno="7",VTV7
+http://192.168.1.245:9981/stream/channelid/123734931?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/lpcltL9.png" tvg-id="955065d5612791a5aefeb773de3b413a" tvg-chno="8",VTV8
+http://192.168.1.245:9981/stream/channelid/1432703125?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Ex1VkGQ.png" tvg-id="239216ff1d8408487a656fb2063a1e91" tvg-chno="9",VTV9
+http://192.168.1.245:9981/stream/channelid/2132185635?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/mIUWkDx.png" tvg-id="c120292716d868433ac0c70bb81473d2" tvg-chno="10",VTV5 TNB
+http://192.168.1.245:9981/stream/channelid/657006785?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/R8c2swd.png" tvg-id="673d407651853fdc49213f50a8acf8bb" tvg-chno="11",VTV5 TN
+http://192.168.1.245:9981/stream/channelid/1983921511?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/eGkFbAh.png" tvg-id="f461bba8f937777b017a672af9c44bc5" tvg-chno="12",ANTV
+http://192.168.1.245:9981/stream/channelid/683368948?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Ud78FHF.png" tvg-id="f7ad150602ecbcbc77e8fb2b5bb5663a" tvg-chno="13",Nhan Dan TV
+http://192.168.1.245:9981/stream/channelid/102084087?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/YtZGuSy.png" tvg-id="3de2d0b393cdf62c5164f16846b9106d" tvg-chno="14",Quoc Hoi
+http://192.168.1.245:9981/stream/channelid/869327421?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/UIGZw0y.png" tvg-id="e214204696ea9f47fdc3968777b7c92c" tvg-chno="15",QPVN
+http://192.168.1.245:9981/stream/channelid/1176507618?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/GmefCpv.png" tvg-id="fafd2bfa8ad14edec8d099ae3269c033" tvg-chno="16",VNEWS
+http://192.168.1.245:9981/stream/channelid/2049703418?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/7HD60aD.png" tvg-id="13f870437ea2f0750c8816340e2a359e" tvg-chno="17",VTC1
+http://192.168.1.245:9981/stream/channelid/1131477011?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/WUUXS6T.png" tvg-id="b7195a97d533959213cbc015c14181de" tvg-chno="18",VTC2
+http://192.168.1.245:9981/stream/channelid/391780791?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/hS4bgHe.png" tvg-id="be1e0e6b613d23f84b035e7a89ebb4d1" tvg-chno="19",VTC3
+http://192.168.1.245:9981/stream/channelid/1796087486?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/5cwYPTt.png" tvg-id="1fee461d5ef259eb08e890b0409701dd" tvg-chno="20",VTC4
+http://192.168.1.245:9981/stream/channelid/491187743?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/VvfiwPJ.png" tvg-id="e5d50fda5856a1de8e5591bd32817837" tvg-chno="21",VTC5
+http://192.168.1.245:9981/stream/channelid/1510987237?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/LPdjM0z.png" tvg-id="7d74709d4314b2acab7b1cbf30872764" tvg-chno="22",VTC6
+http://192.168.1.245:9981/stream/channelid/493909117?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Y5FUbsY.png" tvg-id="283ab9baaa6bfcda5ec425af8d78214c" tvg-chno="23",VTC7
+http://192.168.1.245:9981/stream/channelid/985217576?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/4k57giG.png" tvg-id="c79dd4f9c651be309b13a692a3ad343d" tvg-chno="24",VTC8
+http://192.168.1.245:9981/stream/channelid/2043977159?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/cnAht7i.png" tvg-id="bae95d76d9a28e25c942402d8b089fa1" tvg-chno="25",VTC9
+http://192.168.1.245:9981/stream/channelid/1985866170?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/PaVbyxg.png" tvg-id="9038c17f489fb4cf9e04d88084880819" tvg-chno="26",VTC10
+http://192.168.1.245:9981/stream/channelid/2143369360?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/0ovZkYb.png" tvg-id="33c5013e3e5aec5cb5131dfe169b48a9" tvg-chno="27",VTC11
+http://192.168.1.245:9981/stream/channelid/1040303411?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/phXvB0t.png" tvg-id="e4e45b21f712d45a9de449d60cc94b04" tvg-chno="28",VTC14
+http://192.168.1.245:9981/stream/channelid/559670500?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/rltq2Dy.png" tvg-id="a7ae11f73914adb6956f893b11c4d625" tvg-chno="29",VTC16
+http://192.168.1.245:9981/stream/channelid/1997647527?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/lARtNRO.png" tvg-id="4df67ffdb32febf250cbf14e5b98695d" tvg-chno="30",VOV TV
+http://192.168.1.245:9981/stream/channelid/2105538125?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/oLm4dbV.png" tvg-id="71ad50591f6105ff3df59941e6e5e1ae" tvg-chno="31",HTV1
+http://192.168.1.245:9981/stream/channelid/1498459505?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/f3KlwDX.png" tvg-id="68309132f1f367c327fb5a7046ce5b35" tvg-chno="32",HTV2 Vie Channel
+http://192.168.1.245:9981/stream/channelid/848375912?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/2iE01Ca.png" tvg-id="ed00a1f45712a952b1bd0caf57f81a5f" tvg-chno="33",HTV3
+http://192.168.1.245:9981/stream/channelid/1956708589?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/RSlvzAs.png" tvg-id="62e02bdc665ab47f0283fa967230fa99" tvg-chno="34",HTV7
+http://192.168.1.245:9981/stream/channelid/1546379362?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/wdS7Cr9.png" tvg-id="7980ca92c0d4848387cd8a964f43ddbc" tvg-chno="35",HTV9
+http://192.168.1.245:9981/stream/channelid/315261049?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/z7NOxJ3.png" tvg-id="99056dcede43427f749f6369d53efd8e" tvg-chno="36",HTV The Thao
+http://192.168.1.245:9981/stream/channelid/1315767705?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/ZHVkEIC.png" tvg-id="27485ef3a5c45574b3bc74b4a504f1bd" tvg-chno="37",HTVC Ca Nhac
+http://192.168.1.245:9981/stream/channelid/1935558695?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/XxIO0E0.png" tvg-id="d15fddd9cfe54098af0c3f0e5f4559cc" tvg-chno="38",HTVC Du Lich
+http://192.168.1.245:9981/stream/channelid/1507680209?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/3WanRsM.png" tvg-id="5589726478baaa358989957d8d1456a3" tvg-chno="39",HTVC Gia Đinh
+http://192.168.1.245:9981/stream/channelid/1685227861?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/W16kIQP.png" tvg-id="b36168dd2f8fa381d667a613c45a6d88" tvg-chno="40",HTVC Phim
+http://192.168.1.245:9981/stream/channelid/1567121843?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/MyyovVe.png" tvg-id="93c1e4463c1030cad046526575383ddf" tvg-chno="41",HTVC Phu Nu
+http://192.168.1.245:9981/stream/channelid/1189396883?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/xmISDWo.png" tvg-id="8afa7736689063849f22f8d67db4084f" tvg-chno="42",HTVC Thuan Viet
+http://192.168.1.245:9981/stream/channelid/913832586?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/SQ9cLJj.png" tvg-id="3765442e3ec980c18f5c597fc03ca200" tvg-chno="43",HTVC+
+http://192.168.1.245:9981/stream/channelid/776234295?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/wrH7U0X.png" tvg-id="29fa7d30c39bed60a68613f2f1e4d900" tvg-chno="44",HTV Keys
+http://192.168.1.245:9981/stream/channelid/813562409?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/f3KlwDX.png" tvg-id="c99d7afdbeee75f7b36c0a5d924458e4" tvg-chno="45",HTV2 Vie Channel
+http://192.168.1.245:9981/stream/channelid/2105187785?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="a8868eed0b32b2831eb8115eaa3bb2d4" tvg-chno="46",SCTV6
+http://192.168.1.245:9981/stream/channelid/1838057128?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/gvPtTR2.png" tvg-id="b6fcf44d5990ca47b6ff3935fdddedf9" tvg-chno="47",THVL1 _ TH Vinh Long
+http://192.168.1.245:9981/stream/channelid/1307901110?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/wYadDFn.png" tvg-id="6ec0a6ba1171b0eb598be7d2ed74b05d" tvg-chno="48",THVL2 _ TH Vinh Long
+http://192.168.1.245:9981/stream/channelid/984006766?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/B8S0dyG.png" tvg-id="f20ae0e0e79f4414e1335eb04adf6ac7" tvg-chno="49",THVL3 _ TH Vinh Long
+http://192.168.1.245:9981/stream/channelid/1625295602?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/xYalJzh.png" tvg-id="5ae143b4310421ba3a754dc88f506564" tvg-chno="50",THVL4 _ TH Vinh Long
+http://192.168.1.245:9981/stream/channelid/876863834?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/QAVSUBu.png" tvg-id="7d3025ec0bb604a9462cc2093a829a73" tvg-chno="51",THLC _ TH Lào Cai
+http://192.168.1.245:9981/stream/channelid/1814376573?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/AELRXuX.png" tvg-id="5535364f19244b95caa22f7e762d5fe7" tvg-chno="52",YTV _ TH Yên Bái
+http://192.168.1.245:9981/stream/channelid/1328952661?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Rky1N5S.png" tvg-id="f244e89e18976ca74cf8412c5e4bf7e3" tvg-chno="53",ĐTV _ TH Điện Biên
+http://192.168.1.245:9981/stream/channelid/518538482?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/cgKnwnX.png" tvg-id="bcae75f623b68d882da19f202da44298" tvg-chno="54",HBTV _ TH Hòa Bình
+http://192.168.1.245:9981/stream/channelid/1987423932?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/we3GCjr.png" tvg-id="5bf1be87a07398dfe38b0d0ef2f3bb21" tvg-chno="55",LTV _ TH Lai Châu
+http://192.168.1.245:9981/stream/channelid/129954139?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/h7uPIEP.png" tvg-id="72f343e2d6662824185a9c81b9ca8c26" tvg-chno="56",HGTV _ TH Hà Giang
+http://192.168.1.245:9981/stream/channelid/1648620402?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/YCrYT2p.png" tvg-id="58ed74794f103a8f954b8b253805750c" tvg-chno="57",CRTV _ TH Cao Bằng
+http://192.168.1.245:9981/stream/channelid/2037706072?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/msjevyp.png" tvg-id="770cb71065ec8754b2d49490affadc4d" tvg-chno="58",TBK _ TH Bắc Kạn
+http://192.168.1.245:9981/stream/channelid/280431735?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/6FCXyrr.png" tvg-id="e0629c463d6d34ae808d02bce3eadb2a" tvg-chno="59",LSTV _ TH Lạng Sơn
+http://192.168.1.245:9981/stream/channelid/1184654048?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/6RPgRE7.png" tvg-id="46649674bd029329f60d3a36bd53796a" tvg-chno="60",TTV _ TH Tuyên Quang
+http://192.168.1.245:9981/stream/channelid/1956013126?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/UBcqMiY.png" tvg-id="7fdb7a94cbccff116945ddf5ef11abce" tvg-chno="61",TN1 _ TH Thái Nguyên
+http://192.168.1.245:9981/stream/channelid/343595903?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/5OZ2hAB.png" tvg-id="25fed93513bddcbc51f4b29a1724416f" tvg-chno="62",PTV _ TH Phú Thọ
+http://192.168.1.245:9981/stream/channelid/903478821?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/05t6W7v.png" tvg-id="ad16f38c9e871cea6d89400d9358e3a9" tvg-chno="63",BGTV _ TH Bắc Giang
+http://192.168.1.245:9981/stream/channelid/217257645?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/sGcRJVP.png" tvg-id="d1cf908dd49dca8e1a8beeedf2b7f6f7" tvg-chno="64",QTV1 _ TH Quảng Ninh
+http://192.168.1.245:9981/stream/channelid/227594193?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/4hadYbw.png" tvg-id="2b2dba6ce36f2acf18d232f4a92b812e" tvg-chno="65",QTV3 _ TH Quảng Ninh
+http://192.168.1.245:9981/stream/channelid/1824140587?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/zUFSFCV.png" tvg-id="c91c379fa75eec9dd1ba4050980f50c8" tvg-chno="66",BTV _ TH Bắc Ninh
+http://192.168.1.245:9981/stream/channelid/523705545?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/mwCTDMj.png" tvg-id="2951cbcc39516a222406607f381175d9" tvg-chno="67",H1 _ TH Hà Nội
+http://192.168.1.245:9981/stream/channelid/1288393001?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/HyiwlZV.png" tvg-id="4db1d51cb307f8948c926f213f1ac65b" tvg-chno="68",H2 _ TH Hà Nội
+http://192.168.1.245:9981/stream/channelid/483766605?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/QmzXd4R.png" tvg-id="5fc78916382749d823f038b67c3125dc" tvg-chno="69",THD _ TH Hải Dương
+http://192.168.1.245:9981/stream/channelid/378128223?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/StFk4PA.png" tvg-id="e12fee151ff937c139b5bc417610792c" tvg-chno="70",THP _ TH TP. Hải Phòng
+http://192.168.1.245:9981/stream/channelid/367931361?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/s3yq8AW.png" tvg-id="77d68500442524bf5b2286cbc1b900aa" tvg-chno="71",THP+ _ TH TP. Hải Phòng
+http://192.168.1.245:9981/stream/channelid/8771191?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/XuYnZWe.png" tvg-id="cbe161f54061b02f61849c75ee890ed2" tvg-chno="72",NTV _ TH Ninh Bình
+http://192.168.1.245:9981/stream/channelid/1969349067?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/fP7B6A4.png" tvg-id="ef4ef76a53e2bb9dc698e0911db86dcf" tvg-chno="73",TBTV _ TH Thái Bình
+http://192.168.1.245:9981/stream/channelid/1794592495?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/rrxDn5n.png" tvg-id="9553c8d0eaeb6e216596ef1fc850561d" tvg-chno="74",VP _ TH Vĩnh Phúc
+http://192.168.1.245:9981/stream/channelid/1355305877?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/5HEfwZz.png" tvg-id="041f52407fcbbc2b8ccd81b50876ef51" tvg-chno="75",NTV _ TH Nghệ An
+http://192.168.1.245:9981/stream/channelid/1079123716?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/R4uthe7.png" tvg-id="dc3d25b9b5a5bf7a6c61ab7dc75dd58f" tvg-chno="76",HTTV _ TH Hà Tĩnh
+http://192.168.1.245:9981/stream/channelid/958741980?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/yIHs2sI.png" tvg-id="010923a290dff122f945682ad5e455fe" tvg-chno="77",QRTV _ TH Quảng Trị
+http://192.168.1.245:9981/stream/channelid/572721409?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/6OWQ8lU.png" tvg-id="302f578c817397aa01cf4a25239685e3" tvg-chno="78",DaNangTV1 _ TH TP. Đà Nẵng
+http://192.168.1.245:9981/stream/channelid/207040304?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/hkzIqEV.png" tvg-id="b1b0cb2ef9227149bfc5a6b810eb4a76" tvg-chno="79",DaNangTV2 _ TH TP. Đà Nẵng
+http://192.168.1.245:9981/stream/channelid/785100977?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/uWHWxZB.png" tvg-id="dcfb1fe45fd0e58142bc838d72a748a8" tvg-chno="80",QRT _ TH Quảng Nam
+http://192.168.1.245:9981/stream/channelid/1679817692?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/McmKwa8.png" tvg-id="dc61a0b290b27e259a7a361f39f5499b" tvg-chno="81",PTQ _ TH Quảng Ngãi
+http://192.168.1.245:9981/stream/channelid/849371612?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/APCkufv.png" tvg-id="adca7fcc4fef8045d772a7db0381f984" tvg-chno="82",BTV _ TH Bình Định
+http://192.168.1.245:9981/stream/channelid/1283443373?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/r2xMHkT.png" tvg-id="c9400b0ba2fca5e62df52cd2dc365206" tvg-chno="83",PTP _ TH Phú Yên
+http://192.168.1.245:9981/stream/channelid/185286857?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/kPu3rSN.png" tvg-id="65a90299f1648ab87a29a4ff01bdc427" tvg-chno="84",KTV _ TH Khánh Hòa
+http://192.168.1.245:9981/stream/channelid/419604837?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/cx5AaTV.png" tvg-id="5ab573faab197894f73780ac5d9980b6" tvg-chno="85",NTV _ TH Ninh Thuận
+http://192.168.1.245:9981/stream/channelid/2054403418?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Bu1xsiJ.png" tvg-id="029951cc836f9fa50467d0b6f462c1d6" tvg-chno="86",BTV _ TH Bình Thuận
+http://192.168.1.245:9981/stream/channelid/1280416002?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/C4yYbbi.png" tvg-id="eea2e7d568f76c4ea9a4603db5fa8d92" tvg-chno="87",KRT _ TH Kon Tum
+http://192.168.1.245:9981/stream/channelid/1441243886?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/csqFzvA.png" tvg-id="fa1773ad5ac1b83d1abb10f94808d502" tvg-chno="88",THGL _ TH Gia Lai
+http://192.168.1.245:9981/stream/channelid/762517498?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/H2LOZ2A.png" tvg-id="c66b2c258b1e7ee01700e17871fdef35" tvg-chno="89",DRT _ TH Đắk Lắk
+http://192.168.1.245:9981/stream/channelid/623668166?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Tv0fNk3.png" tvg-id="4d5c0c40b2cc840fe929968c77a8ea16" tvg-chno="90",LTV _ TH Lâm Đồng
+http://192.168.1.245:9981/stream/channelid/1074551885?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/DHWoGfP.png" tvg-id="e2186000e9e872b7324540d2b56d489e" tvg-chno="91",BPTV1 _ TH Bình Phước
+http://192.168.1.245:9981/stream/channelid/6297826?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/CyhvaPs.png" tvg-id="aee9104ceeea33ea9933b1c607805e02" tvg-chno="92",BPTV2 _ TH Bình Phước
+http://192.168.1.245:9981/stream/channelid/1276176814?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/YPQCtHY.png" tvg-id="82eaa4f1ccdda61a762e8093eaf96ff1" tvg-chno="93",BTV1 _ TH Bình Dương
+http://192.168.1.245:9981/stream/channelid/1906633346?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/LpV0d3Q.png" tvg-id="42bd967e6f940af18a4c5bdaae0f1ccd" tvg-chno="94",BTV2 _ TH Bình Dương
+http://192.168.1.245:9981/stream/channelid/2123808066?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/jeunb3Y.png" tvg-id="f1ed682fe1f95dfffa81bddd78f1afe9" tvg-chno="95",BTV9 B Channel
+http://192.168.1.245:9981/stream/channelid/795405809?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/blOZQPI.png" tvg-id="fe25b6fcfc439475b6d8bff53e984760" tvg-chno="96",ĐNRTV1 _ TH Đồng Nai
+http://192.168.1.245:9981/stream/channelid/2092312062?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/tIvmaaX.png" tvg-id="46c5cf34f10a0df56e8b5e4369a82727" tvg-chno="97",ĐNRTV2 _ TH Đồng Nai
+http://192.168.1.245:9981/stream/channelid/886031686?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/0DU4cyg.png" tvg-id="93cd8f236c8fb10c3040dda6d9ef8d26" tvg-chno="98",TTV11 _ TH Tây Ninh
+http://192.168.1.245:9981/stream/channelid/596626835?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/KX2RMXR.png" tvg-id="1bae5647f771fe5bd68241b45f4b4449" tvg-chno="99",BRT _ TH Bà Rịa Vũng Tàu
+http://192.168.1.245:9981/stream/channelid/1196863003?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/UfOw13y.png" tvg-id="9cb5b9309cc3088b8deebb9d198550ba" tvg-chno="100",THĐT1 _ TH Đồng Tháp
+http://192.168.1.245:9981/stream/channelid/817477020?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/WXebESa.png" tvg-id="b32bae7359f48d86c7e9de2beedce127" tvg-chno="101",THĐT2 Miền Tây
+http://192.168.1.245:9981/stream/channelid/1940794291?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/NkHFZ0D.png" tvg-id="47620fa8ef0dcc5245a6df011ffa907c" tvg-chno="102",THTG _ TH Tiền Giang
+http://192.168.1.245:9981/stream/channelid/672096839?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/2On2R0G.png" tvg-id="05fb3ef2fc97a4e873a59bbbed66920f" tvg-chno="103",ATV _ TH An Giang
+http://192.168.1.245:9981/stream/channelid/1916730117?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9UZtJvv.png" tvg-id="76a366c2c62b3128f8e69048c2267349" tvg-chno="104",THBT _ TH Bến Tre
+http://192.168.1.245:9981/stream/channelid/1114022774?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/dHOm6Ll.png" tvg-id="859a03eadc1fb3e39870f82542d2a712" tvg-chno="105",THTV _ TH Trà Vinh
+http://192.168.1.245:9981/stream/channelid/1778621061?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/a3joZFM.png" tvg-id="fefc9106e38a0bc8a414ad826db6252f" tvg-chno="106",HGTV _ TH Hậu Giang
+http://192.168.1.245:9981/stream/channelid/110230782?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/jCTogPb.png" tvg-id="9511696676c456ca3d6bd774a3d1871c" tvg-chno="107",KG _ TH Kiên Giang
+http://192.168.1.245:9981/stream/channelid/1718161813?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/FoAzh3R.png" tvg-id="9171d8ca2394c995f28debfd98046f12" tvg-chno="108",BLTV _ TH Bạc Liêu
+http://192.168.1.245:9981/stream/channelid/1255698833?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/cYqXh3i.png" tvg-id="e5e03f1fda3c9451dc2c8609f4f76c3f" tvg-chno="109",CTV _ TH Cà Mau
+http://192.168.1.245:9981/stream/channelid/524280037?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/NyrxzES.png" tvg-id="7dc5f1ce4da5f5c38d53a959355ab70f" tvg-chno="110",THTPCT _ TH TP. Cần Thơ
+http://192.168.1.245:9981/stream/channelid/1324467581?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/QZT6GIh.png" tvg-id="661474ecd793fec71fd17ccd1808127a" tvg-chno="111",STV _ TH Sơn La
+http://192.168.1.245:9981/stream/channelid/1819546726?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/DCSPntI.png" tvg-id="cb4a38e0ed659504060d447185064f97" tvg-chno="112",THHN _ TH Hà Nam
+http://192.168.1.245:9981/stream/channelid/1614301899?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/deNnP9h.png" tvg-id="672bacefd07a234d84e4db217adb6b08" tvg-chno="113",HY _ TH Hưng Yên
+http://192.168.1.245:9981/stream/channelid/1873554279?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/qW62XEm.png" tvg-id="9bac6adf3309929217a2917a0ff6e832" tvg-chno="114",NTV _ TH Nam Định
+http://192.168.1.245:9981/stream/channelid/1600826523?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/NlOwltd.png" tvg-id="db9a4d3f95edc6e2bf1d048a023b8bde" tvg-chno="115",TTV _ TH Thanh Hóa
+http://192.168.1.245:9981/stream/channelid/1062050523?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/8yOdFDx.png" tvg-id="ae55f61c10c184fd272afd7065c0cab9" tvg-chno="116",QBTV _ TH Quảng Bình
+http://192.168.1.245:9981/stream/channelid/485905838?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/29px2Qy.png" tvg-id="2cc7103c1d73a46a05251c5494bdcde2" tvg-chno="117",TRT _ TH Thừa Thiên Huế
+http://192.168.1.245:9981/stream/channelid/1007732524?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/jBWD3It.png" tvg-id="619acc336d124742890681d1e36a2018" tvg-chno="118",LA34 _ TH Long An
+http://192.168.1.245:9981/stream/channelid/869046881?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/5KQJoBg.png" tvg-id="dbc8ea194cc467b6f3d6ab3a86ed671c" tvg-chno="119",STV1 _ TH Sóc Trăng
+http://192.168.1.245:9981/stream/channelid/434817243?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/UI80qhw.png" tvg-id="56222c64b4bf35429a5f262f280a908c" tvg-chno="120",ABC Australia
+http://192.168.1.245:9981/stream/channelid/1680613974?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/TBgGuJy.png" tvg-id="806647c0d898a45c62a0b0a1c3a466d9" tvg-chno="121",Animal Planet
+http://192.168.1.245:9981/stream/channelid/1078421120?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/bLjwPFU.png" tvg-id="72c0e89d0fb9f3cbac562df26f150747" tvg-chno="122",Animax
+http://192.168.1.245:9981/stream/channelid/501792882?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/KL9oaqc.png" tvg-id="b6dbec6fc55cd85c9d55f148d8720fc1" tvg-chno="123",Asian Food Network
+http://192.168.1.245:9981/stream/channelid/1877793718?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="26bff1699695a5190a32e397b9920945" tvg-chno="124",AXN
+http://192.168.1.245:9981/stream/channelid/1777450790?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/0t99xJZ.png" tvg-id="27a0c58847bb961de3ab8c81a5151a67" tvg-chno="125",BBC CbeeBies
+http://192.168.1.245:9981/stream/channelid/147169319?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/qUiM77S.png" tvg-id="a41947ef7397c431d70e9d073ab43866" tvg-chno="126",BBC Earth
+http://192.168.1.245:9981/stream/channelid/1866930596?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/i7aYwdZ.png" tvg-id="9730f2bd5704007e01691fcc9240207a" tvg-chno="127",BBC Lifestyle
+http://192.168.1.245:9981/stream/channelid/1039282327?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/hsByQfe.png" tvg-id="2ff48ab36d1fdbbd878547b32d99ae43" tvg-chno="128",BBC News
+http://192.168.1.245:9981/stream/channelid/864744495?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/rxFZgIK.png" tvg-id="4f6fe4356303eaa647634239a0eb8304" tvg-chno="129",Bloomberg
+http://192.168.1.245:9981/stream/channelid/904163151?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/6oXQdBZ.png" tvg-id="43c33022c58bb5df4bd4afb5a40e225c" tvg-chno="130",Cartoon Network
+http://192.168.1.245:9981/stream/channelid/573621059?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/RIQE8kA.png" tvg-id="0aca05bf920e5e640648fbb3393ff8b9" tvg-chno="131",CNA
+http://192.168.1.245:9981/stream/channelid/1057344010?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/RCd9AM9.png" tvg-id="3dee21852d4895a1b265de55075df61e" tvg-chno="132",CNN
+http://192.168.1.245:9981/stream/channelid/86109757?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/t9fzARL.png" tvg-id="2d407dacad6fbaa5b2a7db481d727d7d" tvg-chno="133",Da Vinci
+http://192.168.1.245:9981/stream/channelid/746405933?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/STCTI1F.png" tvg-id="664699afdcfca5e4ad2145b250523ad0" tvg-chno="134",Discovery Asia
+http://192.168.1.245:9981/stream/channelid/798574182?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/2JR5vSZ.png" tvg-id="eba97ef39acf3b513cddc8f83da06ac8" tvg-chno="135",Discovery Channel
+http://192.168.1.245:9981/stream/channelid/1937680875?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/N69Cori.png" tvg-id="4df232e1a3f1898d503219a1ae579a39" tvg-chno="136",Dreamworks
+http://192.168.1.245:9981/stream/channelid/1630728781?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Ppi36a4.png" tvg-id="673ed8c9ab718788636cf79dbc080ff9" tvg-chno="137",DW (English)
+http://192.168.1.245:9981/stream/channelid/1238908519?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/ALDt1JX.png" tvg-id="f7bce092302862a4c3041589cbc8df2d" tvg-chno="138",Fashion TV
+http://192.168.1.245:9981/stream/channelid/316718327?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/YF2zMTz.png" tvg-id="e429ea1944cfd0347357428a7ce588ce" tvg-chno="139",France 24 (English)
+http://192.168.1.245:9981/stream/channelid/434776548?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/7nIUtCU.png" tvg-id="74be999389fc088dd478365ee81eed66" tvg-chno="140",HBO
+http://192.168.1.245:9981/stream/channelid/328842868?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/vylHBC8.png" tvg-id="4aa844bb8b1df70a1645000e6f9ec7f9" tvg-chno="141",KBS World
+http://192.168.1.245:9981/stream/channelid/994355274?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Et3vExm.png" tvg-id="879305c7a55a9526fd26d5ad7b277246" tvg-chno="142",NHK World Japan
+http://192.168.1.245:9981/stream/channelid/1191547783?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/x4zXtYX.png" tvg-id="07c613cea6a99dd08143ca352baa52a0" tvg-chno="143",Outdoor Channel
+http://192.168.1.245:9981/stream/channelid/1309918727?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/ZStxdQI.png" tvg-id="5d7329069e1d692f5106384d1373c906" tvg-chno="144",TLC
+http://192.168.1.245:9981/stream/channelid/103379805?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/D8zXF7p.png" tvg-id="f7e5c8c9a40003d216a50a651be7f2e1" tvg-chno="145",TV5 Monde Asie
+http://192.168.1.245:9981/stream/channelid/1237902839?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/B9AVT2i.png" tvg-id="0677772dfe328c6925155764a780f367" tvg-chno="146",WBTV
+http://192.168.1.245:9981/stream/channelid/762803974?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/DZNTBjC.png" tvg-id="65c706bccc41fd39d8e58c0ddccb81c2" tvg-chno="147",Arirang
+http://192.168.1.245:9981/stream/channelid/1007077221?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/H0hAm72.png" tvg-id="0868424cd96a35bfb6e7c2ff91edd523" tvg-chno="148",CNBC
+http://192.168.1.245:9981/stream/channelid/1279420424?profile=pass
